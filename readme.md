@@ -1,5 +1,5 @@
 
-## Complete Code Example
+## Microservices with Spring Boot and Spring Cloud
 
 
 ### /currency-conversion-service/pom.xml
