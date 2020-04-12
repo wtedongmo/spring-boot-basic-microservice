@@ -2,35 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b8b00bd-8a14-42d3-9454-35597a889e1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-nov-2017.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/CurrencyConversionBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/CurrencyConversionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/CurrencyExchangeServiceProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/SpringBootMicroserviceCurrencyConversionApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/test/java/com/in28minutes/springboot/microservice/example/currencyconversion/SpringBootMicroserviceCurrencyConversionApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-naming-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-naming-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-naming-server/src/main/java/com/in28minutes/springboot/microservice/eureka/naming/server/SpringBootMicroserviceEurekaNamingServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-naming-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-naming-server/src/test/java/com/in28minutes/springboot/microservice/eureka/naming/server/SpringBootMicroserviceEurekaNamingServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forex-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forex-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forex-service/src/main/java/com/in28minutes/springboot/microservice/example/forex/ExchangeValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forex-service/src/main/java/com/in28minutes/springboot/microservice/example/forex/ExchangeValueRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forex-service/src/main/java/com/in28minutes/springboot/microservice/example/forex/ForexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forex-service/src/main/java/com/in28minutes/springboot/microservice/example/forex/SpringBootMicroserviceForexServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forex-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forex-service/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forex-service/src/test/java/com/in28minutes/springboot/microservice/example/forex/SpringBootMicroserviceForexServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-nov-2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/CurrencyConversionBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/twb/microservice/currencyconversion/CurrencyConversionBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/CurrencyConversionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/twb/microservice/currencyconversion/CurrencyConversionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/CurrencyExchangeServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/twb/microservice/currencyconversion/CurrencyExchangeServiceProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/SpringBootMicroserviceCurrencyConversionApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/twb/microservice/currencyconversion/SpringBootMicroserviceCurrencyConversionApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/test/java/com/in28minutes/springboot/microservice/example/currencyconversion/SpringBootMicroserviceCurrencyConversionApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion-service/src/test/java/com/twb/microservice/currencyconversion/SpringBootMicroserviceCurrencyConversionApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-naming-server/src/main/java/com/in28minutes/springboot/microservice/eureka/naming/server/SpringBootMicroserviceEurekaNamingServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-naming-server/src/main/java/com/twb/microservice/microservice/eureka/naming/server/SpringBootMicroserviceEurekaNamingServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-naming-server/src/test/java/com/in28minutes/springboot/microservice/eureka/naming/server/SpringBootMicroserviceEurekaNamingServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-naming-server/src/test/java/com/twb/microservice/microservice/eureka/naming/server/SpringBootMicroserviceEurekaNamingServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forex-service/src/main/java/com/in28minutes/springboot/microservice/example/forex/ExchangeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/forex-service/src/main/java/com/twb/microservice/microservice/forex/ExchangeValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forex-service/src/main/java/com/in28minutes/springboot/microservice/example/forex/ExchangeValueRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/forex-service/src/main/java/com/twb/microservice/microservice/forex/ExchangeValueRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forex-service/src/main/java/com/in28minutes/springboot/microservice/example/forex/ForexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/forex-service/src/main/java/com/twb/microservice/microservice/forex/ForexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forex-service/src/main/java/com/in28minutes/springboot/microservice/example/forex/SpringBootMicroserviceForexServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/forex-service/src/main/java/com/twb/microservice/microservice/forex/SpringBootMicroserviceForexServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forex-service/src/test/java/com/in28minutes/springboot/microservice/example/forex/SpringBootMicroserviceForexServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/forex-service/src/test/java/com/twb/microservice/microservice/forex/SpringBootMicroserviceForexServiceApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/eureka-naming-server/target/" />
     <ignored path="$PROJECT_DIR$/forex-service/target/" />
@@ -52,25 +37,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="1" />
+          <entry key="java" value="1" />
+          <entry key="md" value="2" />
+          <entry key="properties" value="3" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
+          <entry key="JAVA" value="1" />
+          <entry key="Markdown" value="2" />
+          <entry key="Properties" value="3" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="9" />
+          <entry key="md" value="20" />
           <entry key="xml" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="9" />
+          <entry key="Markdown" value="20" />
           <entry key="XML" value="17" />
         </counts>
       </usages-collector>
@@ -81,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="204">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
@@ -90,8 +79,97 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/currency-conversion-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-naming-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/forex-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="34">
+                <caret line="622" column="4" selection-start-line="622" selection-start-column="4" selection-end-line="622" selection-end-column="4" />
+                <folding>
+                  <element signature="e#779#780#0" expanded="true" />
+                  <element signature="e#798#799#0" expanded="true" />
+                  <element signature="e#829#830#0" expanded="true" />
+                  <element signature="e#851#852#0" expanded="true" />
+                  <element signature="e#879#880#0" expanded="true" />
+                  <element signature="e#900#901#0" expanded="true" />
+                  <element signature="e#937#938#0" expanded="true" />
+                  <element signature="e#963#964#0" expanded="true" />
+                  <element signature="e#989#990#0" expanded="true" />
+                  <element signature="e#1008#1009#0" expanded="true" />
+                  <element signature="e#1041#1042#0" expanded="true" />
+                  <element signature="e#1063#1064#0" expanded="true" />
+                  <element signature="e#1109#1110#0" expanded="true" />
+                  <element signature="e#1144#1145#0" expanded="true" />
+                  <element signature="e#1213#1214#0" expanded="true" />
+                  <element signature="e#1267#1268#0" expanded="true" />
+                  <element signature="e#1303#1304#0" expanded="true" />
+                  <element signature="e#1328#1329#0" expanded="true" />
+                  <element signature="e#1377#1378#0" expanded="true" />
+                  <element signature="e#1411#1412#0" expanded="true" />
+                  <element signature="e#1460#1461#0" expanded="true" />
+                  <element signature="e#1498#1499#0" expanded="true" />
+                  <element signature="e#1658#1659#0" expanded="true" />
+                  <element signature="e#1679#1680#0" expanded="true" />
+                  <element signature="e#1713#1714#0" expanded="true" />
+                  <element signature="e#1739#1740#0" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="e#679#680#0" expanded="true" />
+                  <element signature="e#698#699#0" expanded="true" />
+                  <element signature="e#726#727#0" expanded="true" />
+                  <element signature="e#747#748#0" expanded="true" />
+                  <element signature="e#773#774#0" expanded="true" />
+                  <element signature="e#792#793#0" expanded="true" />
+                  <element signature="e#838#839#0" expanded="true" />
+                  <element signature="e#873#874#0" expanded="true" />
+                  <element signature="e#901#902#0" expanded="true" />
+                  <element signature="e#922#923#0" expanded="true" />
+                  <element signature="e#956#957#0" expanded="true" />
+                  <element signature="e#982#983#0" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/twb/microservice/currencyconversion/CurrencyConversionBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="12" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -99,20 +177,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eureka-naming-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255" />
+            <state>
+              <caret selection-end-line="40" selection-end-column="10" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forex-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+            <state>
+              <caret selection-end-line="60" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>in28minutes/springboot</find>
+      <find>example.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>twb</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -133,6 +222,7 @@
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/currency-conversion-service/pom.xml" />
         <option value="$PROJECT_DIR$/forex-service/pom.xml" />
+        <option value="$PROJECT_DIR$/code-nov-2017.md" />
       </list>
     </option>
   </component>
@@ -177,12 +267,130 @@
             <path>
               <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-conversion-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-conversion-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-conversion-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-conversion-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="currencyconversion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
               <item name="eureka-naming-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-naming-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-naming-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-naming-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-naming-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-naming-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-naming-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
               <item name="forex-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="forex-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="forex-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="forex-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="forex-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="forex-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="forex-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,7 +401,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586715525915" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586715977763" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -252,16 +460,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586712096313</updated>
-      <workItem from="1586712104108" duration="2067000" />
+      <workItem from="1586712104108" duration="3137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2067000" />
+    <option name="totallyTimeSpent" value="3137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -314,27 +521,108 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="204">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-naming-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forex-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/currency-conversion-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/twb/microservice/currencyconversion/CurrencyConversionBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-naming-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255" />
+        <state>
+          <caret selection-end-line="40" selection-end-column="10" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/forex-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        <state>
+          <caret selection-end-line="60" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="622" column="4" selection-start-line="622" selection-start-column="4" selection-end-line="622" selection-end-column="4" />
+            <folding>
+              <element signature="e#779#780#0" expanded="true" />
+              <element signature="e#798#799#0" expanded="true" />
+              <element signature="e#829#830#0" expanded="true" />
+              <element signature="e#851#852#0" expanded="true" />
+              <element signature="e#879#880#0" expanded="true" />
+              <element signature="e#900#901#0" expanded="true" />
+              <element signature="e#937#938#0" expanded="true" />
+              <element signature="e#963#964#0" expanded="true" />
+              <element signature="e#989#990#0" expanded="true" />
+              <element signature="e#1008#1009#0" expanded="true" />
+              <element signature="e#1041#1042#0" expanded="true" />
+              <element signature="e#1063#1064#0" expanded="true" />
+              <element signature="e#1109#1110#0" expanded="true" />
+              <element signature="e#1144#1145#0" expanded="true" />
+              <element signature="e#1213#1214#0" expanded="true" />
+              <element signature="e#1267#1268#0" expanded="true" />
+              <element signature="e#1303#1304#0" expanded="true" />
+              <element signature="e#1328#1329#0" expanded="true" />
+              <element signature="e#1377#1378#0" expanded="true" />
+              <element signature="e#1411#1412#0" expanded="true" />
+              <element signature="e#1460#1461#0" expanded="true" />
+              <element signature="e#1498#1499#0" expanded="true" />
+              <element signature="e#1658#1659#0" expanded="true" />
+              <element signature="e#1679#1680#0" expanded="true" />
+              <element signature="e#1713#1714#0" expanded="true" />
+              <element signature="e#1739#1740#0" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="e#679#680#0" expanded="true" />
+              <element signature="e#698#699#0" expanded="true" />
+              <element signature="e#726#727#0" expanded="true" />
+              <element signature="e#747#748#0" expanded="true" />
+              <element signature="e#773#774#0" expanded="true" />
+              <element signature="e#792#793#0" expanded="true" />
+              <element signature="e#838#839#0" expanded="true" />
+              <element signature="e#873#874#0" expanded="true" />
+              <element signature="e#901#902#0" expanded="true" />
+              <element signature="e#922#923#0" expanded="true" />
+              <element signature="e#956#957#0" expanded="true" />
+              <element signature="e#982#983#0" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="imports" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
